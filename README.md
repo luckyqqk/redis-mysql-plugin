@@ -7,14 +7,14 @@
 ```mysql.json
 {
 	"development": {
-	  	"host" 		: "192.168.1.111",
+		"host" 		: "192.168.1.111",
 		"port" 		: "3306",
 		"database" 	: "xxxx",
 		"user" 		: "yyyy",
 		"password" 	: "111111"
 	},
 	"production": {
-	  	"host" 		: "192.168.1.111",
+		"host" 		: "192.168.1.111",
 		"port" 		: "3306",
 		"database" 	: "xxxx",
 		"user" 		: "yyyy",
